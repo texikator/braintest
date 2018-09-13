@@ -1,0 +1,4 @@
+name = enemy
+health = 98
+damage = 13
+armor = 1.4
